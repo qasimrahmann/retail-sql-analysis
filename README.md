@@ -33,14 +33,6 @@ This project includes:
 - Customer retention and high-value customer identification
 - Creation of categorized order value buckets to support marketing and sales strategies
 
-This repository is ideal for learners and professionals focused on:
-
-- SQL Analytics  
-- Customer Segmentation  
-- Sales Performance Analysis  
-- Data-Driven Business Insights  
-- Retail Data Modeling  
-
 ---
 
 ## 💡 Dataset Overview
